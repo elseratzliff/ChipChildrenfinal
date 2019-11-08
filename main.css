@@ -1,0 +1,60 @@
+body {
+	background-color: yellow;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+}
+h2 {
+	text-align: center;
+	color:blue;
+}
+h3 {
+	text-align: left;
+	text-decoration: underline;
+}
+h4 {
+	text-align: left;
+	text-decoration: underline;
+}
+.about {
+ 	text-align: center;
+}
+.discription{
+	float: right;
+ 	padding: 0 20px 20px 0;
+}
+
+#ghost{
+	border-style: solid;
+	border-width: medium;
+	border-color: red;
+}
+#funfettie{
+border-style: solid;
+	border-width: medium;
+	border-color: blue;
+}
+#coffee{
+border-style: solid;
+	border-width: medium;
+	border-color: red;
+}
+#store{
+border-style: solid;
+	border-width: medium;
+	border-color: blue;
+}
+#rainbow{
+border-style: solid;
+	border-width: medium;
+	border-color: red;
+}
+img {
+		float: left;
+		padding: 0 20px 20px 0;
+      	width: 50%; 
+      	height: 50%; 
+      	object-fit: contain; 
+            } 
